@@ -10,9 +10,9 @@ Initially, this repository was also intended to store the code and result files 
 
 ## Lab Reports & Files
 
-- **Lab 5**: [Google Drive Link]([your-google-drive-link-here](https://drive.google.com/drive/folders/1NWnQhHDxC5Z2HyJwuCtUxT0X97O4lYSf?usp=drive_link))
-- **Lab 6**: [Google Drive Link]([your-google-drive-link-here](https://drive.google.com/drive/folders/1sFOHV368UccUun2LV3s5kLTh9pHXwnHd?usp=drive_link))
-- **Lab 7-8**: [Google Drive Link]([your-google-drive-link-here](https://drive.google.com/drive/folders/1d1y6SzNgzrj5BPNdGHKDvp6vQ71KB-6H?usp=drive_link))
+- **Lab 5**: [Google Drive Link](https://drive.google.com/drive/folders/1NWnQhHDxC5Z2HyJwuCtUxT0X97O4lYSf?usp=drive_link)
+- **Lab 6**: [Google Drive Link](https://drive.google.com/drive/folders/1sFOHV368UccUun2LV3s5kLTh9pHXwnHd?usp=drive_link)
+- **Lab 7-8**: [Google Drive Link](https://drive.google.com/drive/folders/1d1y6SzNgzrj5BPNdGHKDvp6vQ71KB-6H?usp=drive_link)
 
 ## How to Access the Files
 
